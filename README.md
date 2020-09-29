@@ -2,9 +2,13 @@
 
 Requirements--
 
+
 1.npm
+
 2.nodemon(optional) //auto reload server
+
 3.body-parser //for get data from index.html
+
 4.express //For backend
 
 ----------------------------------------
