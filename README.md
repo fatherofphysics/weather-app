@@ -15,9 +15,11 @@ Requirements--
 
 npm i nodemon// just replace requirements
 
----npm app.js
+npm app.js
+
 or
----nodemon app.js
+
+nodemon app.js
 
 ----------------------------------------
 
